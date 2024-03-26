@@ -4,3 +4,4 @@
 
 ||bance.jp/*.js$third-party,script,redirect=noopjs:100
 ||bance.jp/*.png$third-party
+||*.com/wp-content/uploads/2023/08/third.jpg
