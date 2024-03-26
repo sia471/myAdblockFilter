@@ -3,4 +3,4 @@
 ! Title: myAdblockFilter
 
 ||tr.ssp.bance.jp^$third-party
-||momom-ga.com###bnc_ad_12617
+momom-ga.com###bnc_ad_12617
