@@ -4,4 +4,4 @@
 
 ||tr.ssp.bance.jp^$third-party
 momom-ga.com###bnc_ad_12617
-||tr.ssp.bance.jp/bnctag.js$third-party,script,redirect=noopjs:100
+||tr.ssp.bance.jp/*.js$third-party,script,redirect=noopjs:100
